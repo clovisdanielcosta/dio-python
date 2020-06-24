@@ -50,3 +50,7 @@ resultado = ('Soma: {sm}.\n'
               rs = resto))
 
 print(resultado)
+
+a = 10 / 2
+b = 10 % 2
+print(a, b)
