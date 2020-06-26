@@ -16,10 +16,11 @@ class Calculadora:
     def divisao(self, valor_a, valor_b):
         return valor_a / valor_b
 
-# Instanciando uma classe
-calculadora = Calculadora()
+if __name__ == '__main__':
+    # Instanciando uma classe
+    calculadora = Calculadora()
 
-print(calculadora.soma(10, 2))
-print(calculadora.subtracao(10, 2))
-print(calculadora.multiplicacao(10, 2))
-print(calculadora.divisao(10, 2))
+    print(calculadora.soma(10, 2))
+    print(calculadora.subtracao(10, 2))
+    print(calculadora.multiplicacao(10, 2))
+    print(calculadora.divisao(10, 2))
