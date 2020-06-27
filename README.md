@@ -1,4 +1,4 @@
-<img alt="Logo" src="img/em-obras.png" width="30%">
+<img alt="Logo" src="img/em-obras.png" width="75%">
 <h1 align="center">
 :small_red_triangle_down:  Introdução à programação em Python
 </h1>
