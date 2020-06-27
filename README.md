@@ -1,5 +1,6 @@
+
+<img alt="Logo" align="center" src="img/em-obras.png" width="75%">
 <h1 align="center">
-<img alt="Logo" src="img/em-obras.png" width="75%">
 :small_red_triangle_down:  Introdução à programação em Python
 </h1>
 <h3 align="center">
