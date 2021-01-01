@@ -29,23 +29,6 @@ O objetivo deste projeto é listar os comandos mais usados no Python aprendidos 
   <a href="#small_orange_diamond-licença">Licença</a>
 </p>
 
-## :cloud: Deploy
-
-## :rocket: Tecnologias
-
-- [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-
-## :computer: Instalando
-
-3. Entre na pasta do app:
-  `$ cd nlw-ecoleta`
-
-## :books: Aprendendo
-
-## :small_orange_diamond: Contribuindo
-
-## :small_orange_diamond: Customizando
-são originais do autor ou foram obtidas através do site da Pexels com a devida autorização para uso gratuito.
 
 ## :small_orange_diamond: Agradecimentos
 
@@ -53,4 +36,10 @@ Quero agradecer a <b>Digital Innovation One</b> e parabenizar o Rafael Galleani 
 Parabéns pelo trabalho de vocês. 
 
 Muito obrigado!:clap::clap:
+
+## TESTE
+
+<h3 align="center">
+<img alt="William Tomé" src="william-tome.gif" width="75%">
+</h3>
 
