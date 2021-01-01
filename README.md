@@ -37,7 +37,7 @@ Parabéns pelo trabalho de vocês.
 
 Muito obrigado!:clap::clap:
 
-## TESTE
+## Teste de envio img para o Fórum da DIO
 
 <h3 align="center">
 <img alt="William Tomé" src="william-tome.gif" width="50%">
