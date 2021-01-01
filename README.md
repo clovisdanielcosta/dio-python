@@ -40,6 +40,6 @@ Muito obrigado!:clap::clap:
 ## TESTE
 
 <h3 align="center">
-<img alt="William Tomé" src="william-tome.gif" width="75%">
+<img alt="William Tomé" src="william-tome.gif" width="50%">
 </h3>
 
